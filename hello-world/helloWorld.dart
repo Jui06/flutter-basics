@@ -1,3 +1,5 @@
 void main(){
-  print("hello World");
+  for(int i=0; i<=10; i++){
+  	print("hello World ${i}");
+  }
 }
